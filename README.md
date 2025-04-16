@@ -21,12 +21,6 @@ The dataset comprises the following columns:
 
 ---
 
-## 🛠️ **Table Structure**
-
-The SQL table `sales` is created with the necessary schema to store the dataset. Refer to the `sales_table.sql` file for the schema details.
-
----
-
 ## 🔍 **SQL Queries**
 
 ### ✅ **Query 1: Monthly Revenue and Order Volume**
@@ -51,9 +45,7 @@ The SQL table `sales` is created with the necessary schema to store the dataset.
 
 - `sales.sql` – SQL queries for analysis   
 - `README.md` – Project documentation
-
-> 🔒 **Dataset Privacy**: The dataset is not included in the repository due to privacy concerns. Users can manually upload `Online Sales Data.csv` to run the analysis.
-
+  
 ---
 
 ## 💡 **Key Insights**
